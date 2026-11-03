@@ -1,7 +1,10 @@
 import os
 
-# Disable third-party telemetry calls (Privacy & Data Loss Prevention)
+# Disable third-party telemetry calls (Privacy & Data Loss Prevention — SEC-11)
 os.environ["ANONYMIZED_TELEMETRY"] = "False"
+os.environ["CHROMA_TELEMETRY"] = "False"
+os.environ["DO_NOT_TRACK"] = "1"
+os.environ["HF_HUB_DISABLE_TELEMETRY"] = "1"
 
 import chromadb
 from chromadb.utils import embedding_functions
@@ -44,8 +47,9 @@ def search(query: str, top_k: int = 3, distance_threshold: float = 0.75):
     Clamps inputs to prevent unexpected resource allocation.
     """
     safe_top_k = max(1, min(10, int(top_k)))
-    safe_query = str(query)[:1000] if query else ""
-    if not safe_query.strip():
+    safe_threshold = max(0.0, min(2.0, float(distance_threshold)))
+    safe_query = str(query)[:1000].strip() if query else ""
+    if not safe_query:
         return []
 
     results = collection.query(
@@ -56,7 +60,7 @@ def search(query: str, top_k: int = 3, distance_threshold: float = 0.75):
     distances = results["distances"][0]
 
     # Keep only results below the threshold (closer = more relevant)
-    relevant = [(doc, dist) for doc, dist in zip(docs, distances) if dist <= distance_threshold]
+    relevant = [(doc, dist) for doc, dist in zip(docs, distances) if dist <= safe_threshold]
 
     return relevant
 

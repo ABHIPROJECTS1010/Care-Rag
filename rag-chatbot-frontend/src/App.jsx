@@ -168,6 +168,7 @@ function App() {
                   ref={textareaRef}
                   rows={1}
                   value={input}
+                  maxLength={2000}
                   onChange={(e) => {
                     setInput(e.target.value)
                     adjustTextareaHeight()
@@ -250,6 +251,7 @@ function App() {
                   ref={textareaRef}
                   rows={1}
                   value={input}
+                  maxLength={2000}
                   onChange={(e) => {
                     setInput(e.target.value)
                     adjustTextareaHeight()

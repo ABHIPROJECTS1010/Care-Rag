@@ -22,15 +22,18 @@ for msg in st.session_state.messages:
 user_input = st.chat_input("Type your question here...")
 
 if user_input:
-    # Show user message immediately
-    st.session_state.messages.append({"role": "user", "content": user_input})
-    with st.chat_message("user"):
-        st.write(user_input)
+    # Validate and bound input length to avoid memory exhaustion (SEC-07)
+    sanitized_input = user_input.strip()[:2000]
+    if sanitized_input:
+        # Show user message immediately
+        st.session_state.messages.append({"role": "user", "content": sanitized_input})
+        with st.chat_message("user"):
+            st.write(sanitized_input)
 
-    # Get bot response
-    with st.chat_message("assistant"):
-        with st.spinner("Thinking..."):
-            answer = st.session_state.chat_session.get_answer(user_input)
-        st.write(answer)
+        # Get bot response
+        with st.chat_message("assistant"):
+            with st.spinner("Thinking..."):
+                answer = st.session_state.chat_session.get_answer(sanitized_input)
+            st.write(answer)
 
-    st.session_state.messages.append({"role": "assistant", "content": answer})
+        st.session_state.messages.append({"role": "assistant", "content": answer})
