@@ -16,10 +16,13 @@ CHROMA_PATH = os.path.join(BASE_DIR, "chroma_db")
 # Step 1: Load our chunks from Day 2's work
 chunks = load_and_chunk()
 
-# Step 2: Set up the embedding function (free, local model)
-embedding_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
-    model_name="all-MiniLM-L6-v2"
-)
+# Step 2: Set up the embedding function (free, lightweight local ONNX model, avoids PyTorch DLL blocks)
+try:
+    embedding_fn = embedding_functions.ONNXMiniLM_L6_V2()
+except Exception:
+    embedding_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
+        model_name="all-MiniLM-L6-v2"
+    )
 
 # Step 3: Create a persistent ChromaDB client (saves to disk in ./chroma_db)
 client = chromadb.PersistentClient(path=CHROMA_PATH)
