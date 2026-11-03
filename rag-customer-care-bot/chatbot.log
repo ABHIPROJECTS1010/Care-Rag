@@ -1,0 +1,233 @@
+2026-07-31 11:34:47,721 - Q: Hi there! | ROUTE: no_match | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-07-31 11:35:06,279 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-07-31 11:35:06,279 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.158) How do I track my order?
+Once your order ships, you will rec... | (dist=0.516) How do I start a return?
+Log into your account, go to "My Or... | (dist=0.523) My order shows "delivered" but I haven't received it.
+First,... | A: You can log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order. Alternatively, you will receive an email with a tracking number and a link to the courier's tracking page once your order ships. Tracking information typically updates within 24 hours of dispatch.
+2026-07-31 11:35:06,303 - Q: What about if it's been more than 24 hours? | ROUTE: no_match | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-07-31 11:35:06,303 - Q: connect me to a human | ROUTE: escalation | A: I'll connect you to a human agent. Our live chat is available Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit a ticket and expect a response within 24 hours.
+2026-07-31 11:55:43,527 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-07-31 12:03:43,615 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-07-31 12:08:55,178 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-07-31 12:09:27,788 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-07-31 12:09:27,794 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.190) How do I track my order?
+Once your order ships, you will rec... | (dist=0.512) How do I start a return?
+Log into your account, go to "My Or... | (dist=0.532) My order shows "delivered" but I haven't received it.
+First,... | A: You can log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order. You will also receive an email with a tracking number and a link to the courier's tracking page once your order ships. Tracking information typically updates within 24 hours of dispatch.
+2026-07-31 12:09:31,298 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-07-31 12:09:31,298 - Q: What about if it's been more than 24 hours? | ROUTE: rag | RETRIEVED: (dist=0.224) How do I track my order?
+Once your order ships, you will rec... | (dist=0.495) My order shows "delivered" but I haven't received it.
+First,... | (dist=0.532) How do I start a return?
+Log into your account, go to "My Or... | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-07-31 12:09:31,298 - Q: connect me to a human | ROUTE: escalation | A: I'll connect you to a human agent. Our live chat is available Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit a ticket and expect a response within 24 hours.
+2026-07-31 12:14:11,970 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-07-31 12:19:55,687 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-07-31 12:20:23,590 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-07-31 12:20:23,593 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.190) How do I track my order?
+Once your order ships, you will rec... | (dist=0.512) How do I start a return?
+Log into your account, go to "My Or... | (dist=0.532) My order shows "delivered" but I haven't received it.
+First,... | A: You can log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order. Alternatively, you will receive an email with a tracking number and a link to the courier's tracking page once your order ships.
+2026-07-31 12:20:26,998 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-07-31 12:20:26,999 - Q: What about if it's been more than 24 hours? | ROUTE: rag | RETRIEVED: (dist=0.224) How do I track my order?
+Once your order ships, you will rec... | (dist=0.495) My order shows "delivered" but I haven't received it.
+First,... | (dist=0.532) How do I start a return?
+Log into your account, go to "My Or... | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-07-31 12:20:26,999 - Q: connect me to a human | ROUTE: escalation | A: I'll connect you to a human agent. Our live chat is available Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit a ticket and expect a response within 24 hours.
+2026-07-31 12:25:49,660 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-07-31 12:27:43,842 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-07-31 14:54:02,801 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-07-31 14:54:36,827 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-07-31 14:54:36,855 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.190) How do I track my order?
+Once your order ships, you will rec... | (dist=0.512) How do I start a return?
+Log into your account, go to "My Or... | (dist=0.532) My order shows "delivered" but I haven't received it.
+First,... | A: You can track your order by logging into your TechNest account, going to "My Orders," and clicking "Track Package" next to the relevant order. Alternatively, you will receive an email with a tracking number and a link to the courier's tracking page once your order ships.
+2026-07-31 14:54:46,600 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-07-31 14:54:46,601 - Q: What about if it's been more than 24 hours? | ROUTE: rag | RETRIEVED: (dist=0.224) How do I track my order?
+Once your order ships, you will rec... | (dist=0.495) My order shows "delivered" but I haven't received it.
+First,... | (dist=0.532) How do I start a return?
+Log into your account, go to "My Or... | A: You can track your order by logging into your TechNest account, going to "My Orders," and clicking "Track Package" next to the relevant order. Alternatively, you will receive an email with a tracking number and a link to the courier's tracking page once your order ships.
+
+As for tracking information updating after 24 hours, it typically updates within 24 hours of dispatch. If it has been more than 24 hours since your order shipped, I recommend checking the courier's tracking page using the link provided in the email you received with the tracking number.
+2026-07-31 14:54:46,602 - Q: connect me to a human | ROUTE: escalation | A: I'll connect you to a human agent. Our live chat is available Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit a ticket and expect a response within 24 hours.
+2026-08-05 14:15:59,929 - Q: HI | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-08-05 14:16:46,162 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-05 14:16:46,182 - Q: what is this chat bot all about? | ROUTE: rag | RETRIEVED: (dist=0.535) How do I speak to a human agent?
+If our chatbot cannot resol... | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-08-05 14:17:35,830 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-05 14:17:35,831 - Q: How do i track my order | ROUTE: rag | RETRIEVED: (dist=0.522) How do I track my order?
+Once your order ships, you will rec... | (dist=0.533) How do I speak to a human agent?
+If our chatbot cannot resol... | A: Hello! Welcome to TechNest Electronics support. However, I'd be happy to answer your question directly. To track your order, follow these steps:
+
+Once your order ships, you will receive an email with a tracking number and a link to the courier's tracking page.
+
+You can also log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order.
+
+Tracking information typically updates within 24 hours of dispatch.
+
+I'm sorry, I don't have any additional information on what this chat bot is about.
+2026-08-09 15:32:19,055 - Q: what are orders? | ROUTE: no_match | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-08-09 15:34:57,535 - Q: hi | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-08-09 15:35:12,192 - Q: what are escalations | ROUTE: no_match | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-08-09 15:35:27,716 - Q: what are the answers you have  | ROUTE: no_match | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-08-09 15:37:22,681 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 15:37:22,749 - Q: how long is the warranty | ROUTE: rag | RETRIEVED: (dist=0.462) What is covered under warranty?
+All TechNest products come w... | (dist=0.505) Do you offer extended warranty plans?
+Yes, TechNest Care+ ex... | (dist=0.550) How do I claim a warranty repair or replacement?
+Contact sup... | A: The standard warranty is 1 year and can be extended to 3 years with TechNest Care+.
+2026-08-10 15:33:51,990 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-10 15:33:52,038 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.158) How do I track my order?
+Once your order ships, you will rec... | (dist=0.516) How do I start a return?
+Log into your account, go to "My Or... | (dist=0.523) My order shows "delivered" but I haven't received it.
+First,... | A: Once your order ships, you will receive an email with a tracking number and a link to the courier's tracking page. You can also log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order.
+2026-08-13 12:20:08,664 - Q: hello | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-08-13 12:21:30,878 - Q: can i know about the orders | ROUTE: no_match | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-08-15 11:32:06,950 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-15 11:32:06,989 - Q: Is the warranty transferable if I sell the product? | ROUTE: rag | RETRIEVED: (dist=0.186) Is the warranty transferable if I sell the product?
+The stan... | (dist=0.430) Can I get a warranty repair without proof of purchase?
+Proof... | (dist=0.482) Does the warranty cover international purchases?
+The standar... | A: Yes, it is transferable to a new owner for the remainder of its term, provided the original proof of purchase is available.
+2026-08-21 12:12:10,015 - Q: Hi there! | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-08-21 12:12:12,109 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 12:12:12,109 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.190) How do I track my order?
+Once your order ships, you will rec... | (dist=0.422) What should I do if my tracking number isn't working?
+Tracki... | (dist=0.435) How do I know if my order was successfully placed?
+You will ... | A: Based on TechNest Help Center:
+
+How do I track my order?
+Once your order ships, you will receive an email with a tracking number and a link to the courier's tracking page. You can also log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order. Tracking information typically updates within 24 hours of dispatch.
+2026-08-21 12:12:14,165 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 12:12:14,166 - Q: What about if it's been more than 24 hours? | ROUTE: rag | RETRIEVED: (dist=0.224) How do I track my order?
+Once your order ships, you will rec... | (dist=0.395) What should I do if my tracking number isn't working?
+Tracki... | (dist=0.422) How do I know if my order was successfully placed?
+You will ... | A: Based on TechNest Help Center:
+
+How do I track my order?
+Once your order ships, you will receive an email with a tracking number and a link to the courier's tracking page. You can also log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order. Tracking information typically updates within 24 hours of dispatch.
+2026-08-21 12:12:14,166 - Q: connect me to a human | ROUTE: escalation | A: I'll connect you to a human agent. Our live chat is available Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit a ticket and expect a response within 24 hours.
+2026-08-21 12:22:20,049 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 12:22:20,049 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.158) How do I track my order?
+Once your order ships, you will rec... | (dist=0.419) How do I know if my order was successfully placed?
+You will ... | (dist=0.427) What should I do if my tracking number isn't working?
+Tracki... | A: Based on TechNest Help Center:
+
+How do I track my order?
+Once your order ships, you will receive an email with a tracking number and a link to the courier's tracking page. You can also log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order. Tracking information typically updates within 24 hours of dispatch.
+2026-08-21 12:24:46,030 - Q: hello | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-08-21 12:24:58,850 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 12:24:58,850 - Q: Can I exchange an item instead of returning it? | ROUTE: rag | RETRIEVED: (dist=0.154) Can I exchange an item instead of returning it?
+Yes. Select ... | (dist=0.389) Can I return a gift I received?
+Yes, gifted items can be ret... | (dist=0.408) Can I return a product purchased in-store to an online order... | A: Based on TechNest Help Center:
+
+Can I exchange an item instead of returning it?
+Yes. Select "Exchange" instead of "Return" when starting the process. Exchanges are only available for a different size or color of the same item, subject to availability. If the new item costs more, you will be charged the difference; if it costs less, the difference is refunded.
+2026-08-21 12:25:31,574 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 12:25:31,575 - Q: Is phone support available? | ROUTE: rag | RETRIEVED: (dist=0.355) Can I exchange an item instead of returning it?
+Yes. Select ... | (dist=0.430) Can I return a product purchased in-store to an online order... | (dist=0.430) What happens if I return an item without contacting support ... | A: Based on TechNest Help Center:
+
+Can I exchange an item instead of returning it?
+Yes. Select "Exchange" instead of "Return" when starting the process. Exchanges are only available for a different size or color of the same item, subject to availability. If the new item costs more, you will be charged the difference; if it costs less, the difference is refunded.
+2026-08-21 12:26:00,137 - Session history reset.
+2026-08-21 12:27:00,244 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 12:27:00,244 - Q: How do I claim a warranty repair? | ROUTE: rag | RETRIEVED: (dist=0.200) How do I claim a warranty repair or replacement?
+Contact sup... | (dist=0.274) Can I get a warranty repair without proof of purchase?
+Proof... | (dist=0.438) What is covered under warranty?
+All TechNest products come w... | A: Based on TechNest Help Center:
+
+How do I claim a warranty repair or replacement?
+Contact support with your order number and a description of the issue, including photos or videos if possible. Our team will assess whether the issue is covered and provide a prepaid shipping label for the item to be sent in for inspection. Approved claims are resolved via repair, replacement, or refund at TechNest's discretion, typically within 10 business days of receiving the item.
+2026-08-21 12:52:59,623 - Q: How do I speak to a human agent? | ROUTE: escalation | A: I'll connect you to a human agent. Our live chat is available Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit a ticket and expect a response within 24 hours.
+2026-08-21 12:53:08,285 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 12:53:08,286 - Q: What voids my warranty? | ROUTE: rag | RETRIEVED: (dist=0.335) How do I speak to a human agent?
+If our chatbot cannot resol... | (dist=0.491) What voids my warranty?
+The warranty is voided by unauthoriz... | (dist=0.575) Can I speak with the same agent again for a follow-up?
+While... | A: Based on TechNest Help Center:
+
+How do I speak to a human agent?
+If our chatbot cannot resolve your issue, type "connect me to a human" or "talk to an agent" at any point. You will be transferred to a live support queue. Current live chat hours are Monday-Saturday, 8 AM - 10 PM (your local time). Outside these hours, you can submit a ticket and expect a response within 24 hours.
+2026-08-21 12:53:38,141 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 12:53:38,141 - Q: Can I get store credit instead of a refund? | ROUTE: rag | RETRIEVED: (dist=0.413) Can I get store credit instead of a refund?
+Yes, you can cho... | (dist=0.476) What voids my warranty?
+The warranty is voided by unauthoriz... | (dist=0.523) What is your return policy?
+Items can be returned within 30 ... | A: Based on TechNest Help Center:
+
+Can I get store credit instead of a refund?
+Yes, you can choose store credit instead of a refund to your original payment method when starting your return. Store credit is issued as a TechNest Gift Card and typically appears in your account within 1-2 business days of the return being processed.
+2026-08-21 15:15:56,783 - Q: hello | ROUTE: greeting | A: Hello! Welcome to TechNest Electronics support. How can I help you today?
+2026-08-21 15:16:18,683 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 15:16:18,684 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.175) How do I track my order?
+Once your order ships, you will rec... | (dist=0.414) What should I do if my tracking number isn't working?
+Tracki... | (dist=0.434) How do I know if my order was successfully placed?
+You will ... | A: Based on TechNest Help Center:
+
+How do I track my order?
+Once your order ships, you will receive an email with a tracking number and a link to the courier's tracking page. You can also log into your TechNest account, go to "My Orders," and click "Track Package" next to the relevant order. Tracking information typically updates within 24 hours of dispatch.
+2026-08-21 15:30:26,486 - Q: hi | ROUTE: greeting | A: Hello! Welcome to Care-RAG support. How can I help you today?
+2026-08-21 15:33:49,339 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 15:33:49,341 - Q: Can I cancel my order after placing it? | ROUTE: rag | RETRIEVED: (dist=0.125) Can I cancel my order after placing it?
+Orders can be cancel... | (dist=0.471) Can I change my shipping address after placing an order?
+You... | (dist=0.497) What if I entered the wrong shipping address?
+If the order h... | A: Based on Care-RAG Help Center:
+
+Can I cancel my order after placing it?
+Orders can be cancelled free of charge within 1 hour of purchase from the "My Orders" page. After that window, the order typically enters processing and cannot be cancelled, though you may still be able to refuse delivery or initiate a return once it arrives.
+2026-08-21 15:34:30,707 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 15:34:30,708 - Q: how can i get the delivery information through message | ROUTE: rag | RETRIEVED: (dist=0.280) Can I cancel my order after placing it?
+Orders can be cancel... | (dist=0.462) My order shows "delivered" but I haven't received it.
+First,... | (dist=0.462) How do I know if my order was successfully placed?
+You will ... | A: Based on Care-RAG Help Center:
+
+Can I cancel my order after placing it?
+Orders can be cancelled free of charge within 1 hour of purchase from the "My Orders" page. After that window, the order typically enters processing and cannot be cancelled, though you may still be able to refuse delivery or initiate a return once it arrives.
+2026-08-21 15:38:07,995 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 15:38:07,996 - Q: can i know about the health of the device? | ROUTE: rag | RETRIEVED: (dist=0.600) What information should I have ready before contacting suppo... | A: Based on Care-RAG Help Center:
+
+What information should I have ready before contacting support?
+Having your order number, account email, and a brief description of the issue ready will help speed up resolution. For product issues, photos or videos of the problem are also helpful and may be requested.
+2026-08-21 15:38:47,319 - Q: what is price of iphone 17 pro india? | ROUTE: no_match | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-08-21 15:39:03,341 - Session history reset.
+2026-08-21 15:39:24,898 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 15:39:24,899 - Q: What is your return policy? | ROUTE: rag | RETRIEVED: (dist=0.417) What if my return is rejected?
+Returns may be rejected if th... | (dist=0.429) What is your return policy?
+Items can be returned within 30 ... | (dist=0.502) What happens if I return an item without contacting support ... | A: Based on Care-RAG Help Center:
+
+What if my return is rejected?
+Returns may be rejected if the item is used, damaged beyond normal inspection wear, missing accessories, or outside the 30-day window. If rejected, we will contact you with the reason and offer to ship the item back to you at your expense.
+2026-08-21 15:39:34,416 - Session history reset.
+2026-08-21 15:39:50,601 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 15:39:50,601 - Q: How do I claim a warranty repair? | ROUTE: rag | RETRIEVED: (dist=0.202) How do I claim a warranty repair or replacement?
+Contact sup... | (dist=0.293) Can I get a warranty repair without proof of purchase?
+Proof... | (dist=0.445) Do you offer loaner devices while mine is being repaired?
+Lo... | A: Based on Care-RAG Help Center:
+
+How do I claim a warranty repair or replacement?
+Contact support with your order number and a description of the issue, including photos or videos if possible. Our team will assess whether the issue is covered and provide a prepaid shipping label for the item to be sent in for inspection. Approved claims are resolved via repair, replacement, or refund at Care-RAG's discretion, typically within 10 business days of receiving the item.
+2026-08-21 15:44:47,231 - Q: How do I speak to a human agent? | ROUTE: escalation | A: I'll connect you to a human agent. Our live chat is available Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit a ticket and expect a response within 24 hours.
+2026-08-21 15:45:11,831 - Session history reset.
+2026-08-21 15:45:59,736 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 15:45:59,736 - Q: How do I track my order? | ROUTE: rag | RETRIEVED: (dist=0.210) How do I track my order?
+Once your order ships, you will rec... | (dist=0.419) How do I know if my order was successfully placed?
+You will ... | (dist=0.427) What should I do if my tracking number isn't working?
+Tracki... | A: Based on Care-RAG Help Center:
+
+How do I track my order?
+Once your order ships, you will receive an email with a tracking number and a link to the courier's tracking page. You can also log into your Care-RAG account, go to "My Orders," and click "Track Package" next to the relevant order. Tracking information typically updates within 24 hours of dispatch.
+2026-08-21 15:54:47,395 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-21 15:54:47,399 - Q: Can I request a callback instead of waiting on chat? | ROUTE: rag | RETRIEVED: (dist=0.336) Can I request a callback instead of waiting on chat?
+Yes, du... | (dist=0.455) How do I track my order?
+Once your order ships, you will rec... | (dist=0.513) Can I speak with the same agent again for a follow-up?
+While... | A: Based on Care-RAG Help Center:
+
+Can I request a callback instead of waiting on chat?
+Yes, during live chat hours you can request a callback by selecting "Request a Callback" in the chat window and providing a phone number. Callbacks are typically returned within 30-60 minutes depending on queue volume.
+2026-08-30 20:08:01,641 - Q: hi | ROUTE: greeting | A: Hello! Welcome to Care-RAG support. How can I help you today?
+2026-08-30 20:08:21,102 - Ollama generation error or offline: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-08-30 20:08:21,102 - Q: help me with order details | ROUTE: rag | RETRIEVED: (dist=0.561) How do I know if my order was successfully placed?
+You will ... | (dist=0.576) What if I received the wrong item?
+Contact support with your... | A: Based on Care-RAG Help Center:
+
+How do I know if my order was successfully placed?
+You will receive an order confirmation email immediately after checkout, including your order number and item summary. If you don't see this email within 15 minutes, check your spam folder or log into "My Orders" to confirm the order went through.
+2026-08-30 20:09:22,830 - Session history reset.
+2026-08-30 20:09:35,928 - Q: i phone price | ROUTE: no_match | A: I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?
+2026-08-30 20:18:58,939 - Q: hi | ROUTE: greeting | A: Hello! Welcome to Care-RAG support. How can I help you today?
+2026-08-30 20:19:16,669 - Q: How do I speak to a human agent? | ROUTE: escalation | A: I'll connect you to a human agent. Our live chat is available Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit a ticket and expect a response within 24 hours.

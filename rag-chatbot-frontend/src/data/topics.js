@@ -1,0 +1,66 @@
+export const topics = [
+  {
+    id: 'orders',
+    label: 'Orders & Shipping',
+    icon: '📦',
+    questions: [
+      'How do I track my order?',
+      'What are the shipping options and delivery times?',
+      'Can I cancel my order after placing it?',
+      'Do you ship internationally?',
+      'What happens if my package is damaged during shipping?',
+      'Do you offer in-store pickup?',
+    ],
+  },
+  {
+    id: 'returns',
+    label: 'Returns & Refunds',
+    icon: '🔄',
+    questions: [
+      'What is your return policy?',
+      'How do I start a return?',
+      'How long does a refund take to process?',
+      'Can I exchange an item instead of returning it?',
+      'Can I get store credit instead of a refund?',
+      'What if my return is rejected?',
+    ],
+  },
+  {
+    id: 'warranty',
+    label: 'Product & Warranty',
+    icon: '🛡️',
+    questions: [
+      'What is covered under warranty?',
+      'How do I claim a warranty repair or replacement?',
+      'Do you offer extended warranty plans?',
+      'How do I check if my product is still under warranty?',
+      'What voids my warranty?',
+      'Is the warranty transferable if I sell the product?',
+    ],
+  },
+  {
+    id: 'account',
+    label: 'Account & Payments',
+    icon: '💳',
+    questions: [
+      'How do I reset my password?',
+      'What payment methods do you accept?',
+      'Why was my payment declined?',
+      'Is it safe to save my card details on your site?',
+      'What is Care-RAG Rewards and how do I earn points?',
+      'How do I delete my account?',
+    ],
+  },
+  {
+    id: 'support',
+    label: 'Escalation & Human Support',
+    icon: '🎧',
+    questions: [
+      'How do I speak to a human agent?',
+      "What should I do if I'm not satisfied with a resolution?",
+      'Is phone support available?',
+      'Can I request a callback instead of waiting on chat?',
+      'How long does it take to get a response to an email ticket?',
+    ],
+  },
+]
