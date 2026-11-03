@@ -63,6 +63,7 @@ function App() {
       const response = await fetch(`${API_BASE_URL}/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
         body: JSON.stringify({
           message: text
         })
@@ -109,7 +110,10 @@ function App() {
     setMessages([])
     setInput('')
     try {
-      await fetch(`${API_BASE_URL}/reset`, { method: 'POST' })
+      await fetch(`${API_BASE_URL}/reset`, {
+        method: 'POST',
+        credentials: 'include'
+      })
     } catch {
       // Silently ignore if offline
     }
