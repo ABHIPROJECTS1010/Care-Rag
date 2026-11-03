@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "cd rag-chatbot-frontend && npm run build",
+  "outputDirectory": "rag-chatbot-frontend/dist",
+  "rewrites": [
+    { "source": "/chat", "destination": "/api/chat" },
+    { "source": "/reset", "destination": "/api/reset" },
+    { "source": "/health", "destination": "/api/health" },
+    { "source": "/(.*)", "destination": "/rag-chatbot-frontend/dist/$1" }
+  ]
+}
+

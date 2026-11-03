@@ -1,0 +1,233 @@
+Care-RAG — Customer Care Knowledge Base
+
+=== SECTION 1: ORDERS & SHIPPING ===
+
+How do I track my order?
+Once your order ships, you will receive an email with a tracking number and a link to the courier's tracking page. You can also log into your Care-RAG account, go to "My Orders," and click "Track Package" next to the relevant order. Tracking information typically updates within 24 hours of dispatch.
+
+What are the shipping options and delivery times?
+We offer three shipping options: Standard (5-7 business days, free on orders over $50), Express (2-3 business days, $9.99), and Next-Day (1 business day, $19.99, order must be placed before 2 PM local time). Delivery times are estimates and may vary due to weather, customs, or courier delays.
+
+Can I change my shipping address after placing an order?
+You can change your shipping address within 1 hour of placing the order by going to "My Orders" and selecting "Edit Address." After 1 hour, the order enters processing and the address cannot be changed. In that case, please contact support immediately and we will attempt to intercept the shipment, though this is not guaranteed.
+
+My order shows "delivered" but I haven't received it.
+First, check with neighbors or your building's front desk, as couriers sometimes leave packages with them. Check around your property for a safe drop-off location. If you still cannot locate it after 24 hours, contact support with your order number and we will open an investigation with the courier and issue a replacement or refund if the package is confirmed lost.
+
+Do you ship internationally?
+Yes, we ship to over 40 countries. International orders may be subject to customs duties, import taxes, and additional processing time, which vary by destination and are the customer's responsibility. Estimated delivery times for international orders are shown at checkout.
+
+What if I entered the wrong shipping address?
+If the order hasn't shipped yet, you can correct the address within 1 hour of placing it via "My Orders." Once the order has shipped, we cannot redirect it, and you will need to coordinate with the courier directly or contact support for guidance if the package is returned to us as undeliverable.
+
+Can I cancel my order after placing it?
+Orders can be cancelled free of charge within 1 hour of purchase from the "My Orders" page. After that window, the order typically enters processing and cannot be cancelled, though you may still be able to refuse delivery or initiate a return once it arrives.
+
+What happens if my package is damaged during shipping?
+If your item arrives visibly damaged, please take photos of the packaging and product and contact support within 48 hours of delivery. We will arrange a free replacement or full refund and do not require you to return the damaged item in most cases.
+
+Do you offer in-store pickup?
+In-store pickup is available at select Care-RAG retail partner locations. During checkout, enter your zip code to see if pickup is available near you. Orders are typically ready within 2-4 hours, and you'll receive an email or text when your order is ready for collection.
+
+Can I combine multiple orders into one shipment?
+Unfortunately, orders placed separately cannot be combined into a single shipment, even if placed on the same day, as each order is processed independently once submitted. To avoid extra shipping charges, we recommend adding all items to your cart before checking out.
+
+What if an item in my order is out of stock?
+If an item becomes unavailable after you order, we will notify you by email with the option to wait for restock, substitute a similar item, or receive a refund for that item. The rest of your order will ship as normal unless you request otherwise.
+
+How do I know if my order was successfully placed?
+You will receive an order confirmation email immediately after checkout, including your order number and item summary. If you don't see this email within 15 minutes, check your spam folder or log into "My Orders" to confirm the order went through.
+
+Can I schedule a specific delivery date?
+Specific delivery dates cannot be guaranteed, but Next-Day shipping lets you control when a package arrives if ordered before 2 PM local time. For Standard and Express shipping, delivery falls within the stated business-day range rather than an exact date.
+
+What should I do if my tracking number isn't working?
+Tracking numbers can take up to 24 hours to activate after your order ships. If it still shows no information after 24 hours, contact support with your order number and we will look into it with the courier directly.
+
+Do you provide free shipping on all orders?
+Free Standard shipping applies to orders over $50. Orders under $50 are charged a flat Standard shipping rate shown at checkout. Express and Next-Day shipping always carry a fee regardless of order size.
+
+=== SECTION 2: RETURNS & REFUNDS ===
+
+What is your return policy?
+Items can be returned within 30 days of delivery for a full refund, provided they are unused, in original packaging, and include all accessories. Opened software, digital downloads, and gift cards are non-returnable. Return shipping is free for defective items; for other returns, a $5.99 return label fee is deducted from the refund.
+
+How do I start a return?
+Log into your account, go to "My Orders," select the item, and click "Start a Return." Choose your reason for the return and print the prepaid shipping label. Drop the package at any authorized courier location within 14 days of generating the label.
+
+How long does a refund take to process?
+Once we receive and inspect your returned item, refunds are processed within 3-5 business days. It may take an additional 3-7 business days for the refund to appear on your original payment method, depending on your bank or card issuer.
+
+Can I exchange an item instead of returning it?
+Yes. Select "Exchange" instead of "Return" when starting the process. Exchanges are only available for a different size or color of the same item, subject to availability. If the new item costs more, you will be charged the difference; if it costs less, the difference is refunded.
+
+Do I need the original packaging to return an item?
+Yes, items must be returned in their original packaging with all accessories, manuals, and inserts included. Returns missing original packaging may be subject to a partial refund or rejected entirely, depending on the item's condition.
+
+What if I lost my return label?
+You can reprint your return label at any time by going to "My Orders," selecting the item, and clicking "View Return Details." Labels remain valid for 14 days from when the return was first initiated.
+
+Can I return a gift I received?
+Yes, gifted items can be returned for store credit even without the original receipt, as long as the order can be located in our system using the order number or the gift-giver's email. Refunds to the original payment method require the original purchaser to initiate the return.
+
+What if my return is rejected?
+Returns may be rejected if the item is used, damaged beyond normal inspection wear, missing accessories, or outside the 30-day window. If rejected, we will contact you with the reason and offer to ship the item back to you at your expense.
+
+Do you charge a restocking fee?
+We do not charge a separate restocking fee. The only deduction for standard returns is the $5.99 return label fee, which does not apply to defective or incorrect items.
+
+Can I return an item bought during a sale or promotion?
+Yes, sale items follow the same 30-day return policy as full-price items unless explicitly marked "Final Sale" at the time of purchase. Refunds for discounted items are issued for the amount actually paid, not the original price.
+
+What happens if I return an item without contacting support first?
+You do not need to contact support to start a standard return — simply use the "Start a Return" feature in "My Orders." Support is only needed for defective items, missing parts, or issues outside the standard return process.
+
+Can I get store credit instead of a refund?
+Yes, you can choose store credit instead of a refund to your original payment method when starting your return. Store credit is issued as a Care-RAG Gift Card and typically appears in your account within 1-2 business days of the return being processed.
+
+What if I received the wrong item?
+Contact support with your order number and a photo of the item you received. We will arrange a free prepaid return label and ship the correct item to you immediately, without waiting for the incorrect item to arrive back at our warehouse.
+
+How will I know when my return has been received?
+You will receive an email notification once your returned item arrives at our warehouse, and another once the refund or exchange has been processed. You can also check real-time status under "My Orders" at any time.
+
+Can I return a product purchased in-store to an online order or vice versa?
+Items purchased in-store at a Care-RAG retail partner must be returned to that same store, while online purchases must be returned by mail using the prepaid label. Cross-channel returns are not currently supported.
+
+=== SECTION 3: PRODUCT & WARRANTY ===
+
+What is covered under warranty?
+All Care-RAG products come with a standard 1-year manufacturer warranty covering defects in materials and workmanship under normal use. The warranty does not cover accidental damage, water damage, unauthorized repairs, or normal wear and tear (e.g., battery degradation after 12+ months).
+
+How do I claim a warranty repair or replacement?
+Contact support with your order number and a description of the issue, including photos or videos if possible. Our team will assess whether the issue is covered and provide a prepaid shipping label for the item to be sent in for inspection. Approved claims are resolved via repair, replacement, or refund at Care-RAG's discretion, typically within 10 business days of receiving the item.
+
+Do you offer extended warranty plans?
+Yes, Care-RAG Care+ extends coverage to 3 years and adds one incident of accidental damage protection per year. Care+ must be purchased within 30 days of the original product purchase and costs 10% of the product's purchase price.
+
+How do I register my product for warranty?
+Registration is automatic when you purchase through a Care-RAG account, since your order history serves as proof of purchase. If you purchased through a third-party retailer, you can manually register your product under "My Products" using the serial number and a copy of your receipt.
+
+Is the warranty transferable if I sell the product?
+The standard manufacturer warranty is transferable to a new owner for the remainder of its term, provided the original proof of purchase is available. Care+ extended coverage is non-transferable and remains tied to the original purchaser's account.
+
+What happens if my product is discontinued and needs replacement parts?
+For discontinued products, we first attempt to source original replacement parts from remaining inventory. If parts are unavailable, we will offer a comparable replacement product or a prorated refund based on the product's age and original price.
+
+Does the warranty cover international purchases?
+The standard warranty is honored globally for products purchased directly from Care-RAG, though repairs may need to be shipped to a regional service center, which can extend turnaround time. Products purchased through unauthorized international resellers may not be eligible.
+
+Can I get a warranty repair without proof of purchase?
+Proof of purchase is generally required to verify warranty eligibility. If you purchased through your Care-RAG account, we can look up the order automatically. Without any record of purchase, we cannot guarantee warranty coverage.
+
+What voids my warranty?
+The warranty is voided by unauthorized repairs or modifications, accidental or liquid damage, use of incompatible third-party accessories that cause damage, removal or tampering with serial number labels, and damage from misuse outside the product's intended purpose.
+
+Is Care+ refundable if I cancel it?
+Care+ can be cancelled for a full refund within 30 days of purchase if no claims have been made. After 30 days or after a claim has been filed, Care+ becomes non-refundable but remains active for its full term.
+
+Do you offer loaner devices while mine is being repaired?
+Loaner devices are available for select high-value product categories during warranty repairs exceeding 5 business days. Availability varies by product and region, and a request must be made when you first file your warranty claim.
+
+How do I check if my product is still under warranty?
+Log into your account and go to "My Products," where each item shows its warranty status and expiration date. You can also contact support with your order number or serial number for confirmation.
+
+What is the difference between repair and replacement decisions?
+Our team determines the outcome based on the issue's severity, part availability, and product age. Minor, fixable defects are typically repaired, while issues involving core components or discontinued parts more often result in a full replacement or refund.
+
+Are software issues covered under warranty?
+Software issues caused by manufacturing defects, such as pre-installed firmware failures, are covered. Issues caused by user-installed software, unauthorized modifications, or third-party apps are not covered and may require a separate paid service.
+
+=== SECTION 4: ACCOUNT & PAYMENTS ===
+
+How do I reset my password?
+Click "Forgot Password" on the login page and enter your registered email. You will receive a reset link valid for 1 hour. If you don't see the email within a few minutes, check your spam folder or request a new link.
+
+What payment methods do you accept?
+We accept Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay, and Care-RAG Gift Cards. Buy-now-pay-later options (via Affirm) are available on orders over $100.
+
+Why was my payment declined?
+Common reasons include insufficient funds, incorrect card details, bank fraud flags on international transactions, or an expired card. We recommend double-checking your card details, contacting your bank to authorize the transaction, or trying an alternate payment method.
+
+Is it safe to save my card details on your site?
+Yes. Care-RAG does not store raw card numbers on our servers. Payments are processed through PCI-DSS compliant payment processors, and saved cards are tokenized, meaning we only store a secure reference token, not your actual card number.
+
+How do I update my email address on file?
+Go to "Account Settings," select "Edit Profile," and update your email address. A verification link will be sent to the new email, and the change takes effect once you confirm it.
+
+Can I have multiple shipping addresses saved?
+Yes, you can save multiple shipping addresses under "Address Book" in your account settings and select the desired address at checkout. You may also designate one address as your default.
+
+How do I delete my account?
+You can request account deletion by going to "Account Settings" and selecting "Delete Account," or by contacting support directly. Deletion is permanent and removes your order history, saved addresses, and payment tokens after a 14-day grace period.
+
+Can I use multiple payment methods for one order?
+Currently, only one payment method can be applied per order, with the exception of combining a Gift Card with a credit or debit card to cover the remaining balance.
+
+Do you charge sales tax?
+Sales tax is calculated based on your shipping address and applicable local tax laws, and is shown at checkout before you complete your order. Tax-exempt organizations can apply for exemption through "Account Settings."
+
+What is Care-RAG Rewards and how do I earn points?
+Care-RAG Rewards is our loyalty program where you earn 1 point per dollar spent, redeemable for discounts on future orders. Points are automatically credited to your account within 24 hours of a completed purchase and can be viewed under "My Rewards."
+
+Can I use a promo code after placing an order?
+Promo codes must be applied at checkout and cannot be added retroactively to a completed order, even if the code was still valid at the time of purchase. We recommend double-checking your cart before submitting your order.
+
+Is two-factor authentication available for my account?
+Yes, you can enable two-factor authentication under "Account Settings" > "Security," using either SMS verification or an authenticator app for an added layer of protection.
+
+What if I forgot the email associated with my account?
+Contact support with any identifying order information you have, such as an order number, shipping address, or payment card's last four digits, and our team can help locate the email associated with your account.
+
+Can I view my past invoices or receipts?
+Yes, all past invoices are available under "My Orders" by selecting the relevant order and clicking "View Invoice," which can be downloaded as a PDF for your records.
+
+Are gift cards refundable or exchangeable for cash?
+Gift cards are non-refundable and cannot be exchanged for cash except where required by local law. However, unused gift card balances never expire and can be used on any future purchase.
+
+=== SECTION 5: ESCALATION & HUMAN SUPPORT ===
+
+How do I speak to a human agent?
+If our chatbot cannot resolve your issue, type "connect me to a human" or "talk to an agent" at any point. You will be transferred to a live support queue. Current live chat hours are Monday-Saturday, 8 AM - 10 PM (your local time). Outside these hours, you can submit a ticket and expect a response within 24 hours.
+
+What should I do if I'm not satisfied with a resolution?
+If you feel your issue was not resolved satisfactorily, you can request escalation to a senior support specialist by replying "escalate" in your support ticket, or email escalations@care-rag.example.com with your order number and ticket ID.
+
+What information should I have ready before contacting support?
+Having your order number, account email, and a brief description of the issue ready will help speed up resolution. For product issues, photos or videos of the problem are also helpful and may be requested.
+
+Can I request a callback instead of waiting on chat?
+Yes, during live chat hours you can request a callback by selecting "Request a Callback" in the chat window and providing a phone number. Callbacks are typically returned within 30-60 minutes depending on queue volume.
+
+Is phone support available?
+Phone support is available during live chat hours (Monday-Saturday, 8 AM - 10 PM local time) at the number listed on our Contact Us page. For fastest service outside these hours, live chat or ticket submission is recommended.
+
+How long does it take to get a response to an email ticket?
+Standard email tickets receive a response within 24 hours. Tickets involving warranty claims or escalations may take slightly longer, typically up to 48 hours, due to additional review.
+
+Can I track the status of my support ticket?
+Yes, log into your account and go to "My Support Tickets" to view the current status, any agent responses, and estimated resolution time for each open ticket.
+
+What if I disagree with a warranty claim decision?
+You can request a second review by replying to your claim ticket with "request review" along with any additional supporting evidence, such as further photos or documentation. This routes the claim to a senior technician for reassessment.
+
+Do you offer support in languages other than English?
+Yes, live chat and phone support are available in English, Spanish, French, and Mandarin. Select your preferred language from the dropdown menu when starting a chat or ticket.
+
+Can I speak with the same agent again for a follow-up?
+While we cannot always guarantee the same agent, referencing your previous ticket ID when you reach out again allows any agent to quickly review the full history and continue where the conversation left off.
+
+What are your holiday support hours?
+Support hours may be reduced on major public holidays, with updated hours posted on our Contact Us page in advance. Ticket submissions are still accepted 24/7 even when live support is unavailable.
+
+How do I file a complaint about a support interaction?
+You can email escalations@care-rag.example.com with details of the interaction, including the date, ticket ID, and a description of your concern. Complaints are reviewed by a support quality team separate from the original agent.
+
+Is there a social media channel for support?
+Yes, you can reach us via direct message on our official social media accounts for general questions. For account-specific or order-related issues, we recommend using live chat or email support to protect your personal information.
+
+Can I get support for a product I didn't purchase from Care-RAG?
+We can offer general troubleshooting guidance for compatible accessories or products purchased elsewhere, but warranty claims, returns, and order-specific support are only available for items purchased directly through Care-RAG or an authorized reseller.
+
+How do I provide feedback about a support experience that went well?
+You can share positive feedback through the post-chat survey sent after every support interaction, or by emailing feedback@care-rag.example.com. We pass along commendations to the agent and their team.

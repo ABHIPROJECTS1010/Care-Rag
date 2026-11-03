@@ -21,7 +21,11 @@ const STARTER_PROMPTS = [
   { icon: '🎧', text: 'How do I speak to a human agent?' },
 ]
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || (typeof window !== 'undefined' && window.location.port === '8000' ? '' : 'http://localhost:8000')
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL !== undefined
+  ? import.meta.env.VITE_API_BASE_URL
+  : (typeof window !== 'undefined' && window.location.hostname === 'localhost' && window.location.port === '5173'
+      ? 'http://localhost:8000'
+      : '')
 
 function App() {
   const [messages, setMessages] = useState([])

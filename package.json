@@ -1,0 +1,9 @@
+{
+  "name": "care-rag-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd rag-chatbot-frontend && npm install && npm run build"
+  }
+}
+
