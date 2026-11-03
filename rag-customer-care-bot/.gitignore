@@ -1,0 +1,35 @@
+# ── Python runtime artefacts ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Log files (SEC-05 / SEC-06 / SEC-11: never commit conversation logs) ──────
+*.log
+logs/
+
+# ── ChromaDB vector store (may embed user query text in index files) ──────────
+chroma_db/
+
+# ── Editor / IDE ───────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+
+# ── OS artefacts ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Distribution / packaging ───────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/

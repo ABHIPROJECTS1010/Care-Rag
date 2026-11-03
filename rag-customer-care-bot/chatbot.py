@@ -1,12 +1,15 @@
+import logging
+import os
+
 import ollama
 from vector_store import search
-import logging
 
-# --- Basic logging setup (shows what the bot retrieved and why) ---
+# --- Logging setup: metadata only — never log raw user messages (SEC-05) ---
+_LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "chatbot.log")
 logging.basicConfig(
-    filename="chatbot.log",
+    filename=_LOG_FILE,
     level=logging.INFO,
-    format="%(asctime)s - %(message)s"
+    format="%(asctime)s [%(levelname)s] %(message)s"
 )
 
 PROMPT_TEMPLATE = """You are a customer support assistant for Care-RAG.
@@ -53,7 +56,7 @@ class ChatSession:
         # --- 1. Handle greetings without running retrieval ---
         if any(normalized == g or normalized.startswith(g + " ") for g in GREETINGS):
             answer = "Hello! Welcome to Care-RAG support. How can I help you today?"
-            logging.info(f"Q: {question} | ROUTE: greeting | A: {answer}")
+            logging.info("ROUTE: greeting")
             self.history.append((question, answer))
             return answer
 
@@ -62,7 +65,7 @@ class ChatSession:
             answer = ("I'll connect you to a human agent. Our live chat is available "
                       "Monday-Saturday, 8 AM - 10 PM. Outside those hours, you can submit "
                       "a ticket and expect a response within 24 hours.")
-            logging.info(f"Q: {question} | ROUTE: escalation | A: {answer}")
+            logging.info("ROUTE: escalation")
             self.history.append((question, answer))
             return answer
 
@@ -82,12 +85,12 @@ class ChatSession:
 
         if not relevant_chunks:
             answer = "I'm sorry, I don't have information on that. Would you like me to connect you to a human agent?"
-            logging.info(f"Q: {question} | ROUTE: no_match | A: {answer}")
+            logging.info("ROUTE: no_match")
             self.history.append((question, answer))
             return answer
 
         context = "\n\n".join([doc for doc, dist in relevant_chunks])
-        retrieved_summary = " | ".join([f"(dist={dist:.3f}) {doc[:60]}..." for doc, dist in relevant_chunks])
+
 
         prompt = PROMPT_TEMPLATE.format(
             history=self._format_history(),
@@ -106,7 +109,11 @@ class ChatSession:
             # Fallback directly using top retrieved context if Ollama is not running
             answer = f"Based on Care-RAG Help Center:\n\n{relevant_chunks[0][0]}"
 
-        logging.info(f"Q: {question} | ROUTE: rag | RETRIEVED: {retrieved_summary} | A: {answer}")
+        # Log only retrieval metadata — never the raw question or answer text
+        top_dist = relevant_chunks[0][1] if relevant_chunks else -1.0
+        logging.info(
+            f"ROUTE: rag | CHUNKS: {len(relevant_chunks)} | TOP_DIST: {top_dist:.3f}"
+        )
         self.history.append((question, answer))
         return answer
 

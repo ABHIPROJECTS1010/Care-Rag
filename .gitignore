@@ -1,0 +1,28 @@
+# Care-RAG — root .gitignore
+# Covers both backend and frontend
+
+# ── Log files (SEC-06: never commit conversation logs) ────────────────────────
+*.log
+logs/
+
+# ── ChromaDB vector store ─────────────────────────────────────────────────────
+**/chroma_db/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ── Node / frontend ───────────────────────────────────────────────────────────
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# ── Editor ────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db

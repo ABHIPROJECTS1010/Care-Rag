@@ -77,7 +77,7 @@ function App() {
         ...prev,
         {
           role: 'assistant',
-          content: '⚠️ Unable to connect to the Care-RAG backend. Please ensure the Python API server is running on http://localhost:8000.'
+          content: '⚠️ Unable to connect. Please try again in a moment or contact support.'
         }
       ])
     } finally {

@@ -1,0 +1,26 @@
+# Care-RAG backend — Python dependencies
+# Generated baseline; pin to exact versions after running:
+#   pip install -r requirements.txt
+#   pip freeze > requirements.txt
+# Then audit with:  pip-audit -r requirements.txt
+
+# ── Web framework ─────────────────────────────────────────────────────────────
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+
+# ── Rate limiting (SEC-03) ────────────────────────────────────────────────────
+slowapi>=0.1.9
+
+# ── Vector store ─────────────────────────────────────────────────────────────
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# ── LLM client ───────────────────────────────────────────────────────────────
+ollama>=0.3.0
+
+# ── Alternative Streamlit UI ──────────────────────────────────────────────────
+streamlit>=1.39.0
+
+# ── Development / chunking experiments (not required at runtime) ──────────────
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
