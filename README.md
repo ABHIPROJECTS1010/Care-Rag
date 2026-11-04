@@ -86,7 +86,9 @@ Example inquiry:
 
 ## Screenshots / Demo
 
-Demo Video:
-- File path: `C:\Users\acer\Videos\Screen Recordings\OP CARERAG.mp4`
-- Link: [C:\Users\acer\Videos\Screen Recordings\OP CARERAG.mp4](file:///C:/Users/acer/Videos/Screen%20Recordings/OP%20CARERAG.mp4)
+<video src="assets/demo.mp4" controls="controls" width="100%">
+  Your browser does not support the video tag.
+</video>
+
+[Watch Demo Video (assets/demo.mp4)](assets/demo.mp4)
 
