@@ -86,5 +86,7 @@ Example inquiry:
 
 ## Screenshots / Demo
 
-[Demo Video](file:///C:/Users/acer/Videos/Screen%20Recordings/OP%20CARERAG.mp4)
+Demo Video:
+- File path: `C:\Users\acer\Videos\Screen Recordings\OP CARERAG.mp4`
+- Link: [C:\Users\acer\Videos\Screen Recordings\OP CARERAG.mp4](file:///C:/Users/acer/Videos/Screen%20Recordings/OP%20CARERAG.mp4)
 
