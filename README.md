@@ -86,14 +86,5 @@ Example inquiry:
 
 ## Screenshots / Demo
 
-![Chat UI](assets/screenshot.png)
-
-[ADD: live demo link]
-
-## Author
-
-Abhikuttan
-- [ADD: LinkedIn URL]
-- [ADD: email]
-- [ADD: GitHub profile URL]
+[Demo Video](file:///C:/Users/acer/Videos/Screen%20Recordings/OP%20CARERAG.mp4)
 
