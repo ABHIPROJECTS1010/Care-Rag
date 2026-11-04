@@ -1,4 +1,4 @@
-# Care-Rag
+﻿# Care-Rag
 
 A retrieval-augmented generation (RAG) customer care chatbot designed to deliver verified, accurate customer support responses from a structured knowledge base.
 
@@ -86,9 +86,18 @@ Example inquiry:
 
 ## Screenshots / Demo
 
-<video src="assets/demo.mp4" controls="controls" width="100%">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <video src="assets/demo.mp4" width="100%" controls="controls" autoplay muted loop>
+    <source src="assets/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
-[Watch Demo Video (assets/demo.mp4)](assets/demo.mp4)
+  <br/><br/>
+
+  <a href="https://github.com/ABHIPROJECTS1010/Care-Rag/blob/main/assets/demo.mp4">
+    <img src="https://img.shields.io/badge/Play%20Video-care%20rag.mp4%20(Full%20Demo)-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Play care rag.mp4 Demo" />
+  </a>
+
+  <p><em>(Click the button above to play the demo video directly on GitHub)</em></p>
+</div>
 
